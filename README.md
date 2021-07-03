@@ -1,0 +1,3 @@
+# testguild-apiautomation
+
+npm test
