@@ -1,3 +1,3 @@
-# testguild-apiautomation
+# apiautomation with JavaScript
 
 npm test
